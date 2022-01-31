@@ -31,7 +31,7 @@ Next:
 python main.py
 ```
 
-You also need to start your mongodb instance.
+You also need to start your mongodb instance. a ver
 
 The starter listens on port 8000 on address [0.0.0.0](0.0.0.0:8080). 
 
